@@ -5,7 +5,7 @@
 
   Wildvine es un sitio web de caridad totalmente receptivo, <br /> adaptable a todos los dispositivos, construido usando HTML, CSS y JavaScript.
 
-  <a href="https://codewithsadee.github.io/wildvine/"><strong>➥ Demo en vivo</strong></a>
+  <a href="https://elmanci2.github.io/Wildvine-ong/"><strong>➥ Demo en vivo</strong></a>
 
 </div>
 
@@ -28,13 +28,13 @@ Para ejecutar **Wildvine** localmente, ejecute este comando en su git bash:
 Linux y macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/wildvine.git
+sudo git clone [https://github.com/codewithsadee/wildvine.git](https://github.com/elmanci2/Wildvine-ong.git)
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/wildvine.git
+git clone [ https://github.com/codewithsadee/wildvine.git](https://github.com/elmanci2/Wildvine-ong.git)
 ```
 
 ### Contacto
