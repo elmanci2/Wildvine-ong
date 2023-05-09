@@ -28,17 +28,14 @@ Para ejecutar **Wildvine** localmente, ejecute este comando en su git bash:
 Linux y macOS:
 
 ```bash
-sudo git clone [https://github.com/codewithsadee/wildvine.git](https://github.com/elmanci2/Wildvine-ong.git)
+sudo git clone (https://github.com/elmanci2/Wildvine-ong.git)
 ```
 
 Windows:
 
 ```bash
-git clone [ https://github.com/codewithsadee/wildvine.git](https://github.com/elmanci2/Wildvine-ong.git)
+git clone (https://github.com/elmanci2/Wildvine-ong.git)
 ```
-
-### Contacto
-
 
 
 ### Licencia
