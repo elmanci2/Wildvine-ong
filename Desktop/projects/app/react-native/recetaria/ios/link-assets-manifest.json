@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/CastoroTitling-Regular.ttf",
+      "sha1": "36d146c98e07e9cd3eb21366048dc33d7ebc66bf"
+    },
+    {
+      "path": "assets/fonts/CursiveSerif-Bold.ttf",
+      "sha1": "5974f44da4bc631f600a5b3555a9b9476abdb164"
+    },
+    {
+      "path": "assets/fonts/CursiveSerif-Book.ttf",
+      "sha1": "ba4e535a66937475444f87766982137c4ff0df1c"
+    },
+    {
+      "path": "assets/fonts/Poppins-Bold.ttf",
+      "sha1": "3bc8164396c3e6c1e4fae0cf2a51ea66381c1c2d"
+    },
+    {
+      "path": "assets/fonts/Poppins-Light.ttf",
+      "sha1": "0eba831cb91221e799ba55fc1b7c1805a0799623"
+    },
+    {
+      "path": "assets/fonts/Poppins-Medium.ttf",
+      "sha1": "cf83e7582e60ed83f67c7d68b4f7482ac9fc6958"
+    }
+  ]
+}

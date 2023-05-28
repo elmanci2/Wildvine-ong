@@ -1,0 +1,8 @@
+{
+  "name": "recetaria",
+  "displayName": "recetaria",
+  "andrord": {
+    "package": "com.recetaria",
+    "versionCode": 1
+  }
+}
